@@ -1,0 +1,6 @@
+1,sreya,math,25
+1,sreya,math,25
+1,sreya,math,25
+2,rags,science,25
+3,manoj,ece,30
+4,manu,electronics,31
